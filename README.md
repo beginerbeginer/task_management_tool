@@ -1,6 +1,3 @@
 # task_management_tool
 
-<h4>某タスクマネジメントアプリのコピー</h4>
-
-<p>test</p>
-<p>test</p>
+<h4>某タスク管理ツールのコピーアプリ</h4>
